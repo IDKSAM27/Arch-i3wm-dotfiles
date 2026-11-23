@@ -3,3 +3,13 @@
 Happy Ricing!!
 
 > Use `stow` to create symlinks (recommended)
+#### Just type:
+```bash
+# stow 'folder-name'
+# example:
+stow nvim
+stow alacritty
+stow tmux
+
+# This will create a symlink to the folder into ~/.config
+```
